@@ -1,0 +1,9 @@
+# Ignore example code exercises.
+Loops_Iterators/conditional_loop.rb
+Loops_Iterators/conditional_while_loop.rb
+Loops_Iterators/countdown.rb
+Loops_Iterators/do_while.rb
+Loops_Iterators/fibonacci.rb
+Loops_Iterators/next_loop.rb
+Loops_Iterators/practice_each.rb
+Loops_Iterators/useful_loop.rb
